@@ -8,3 +8,5 @@ I'm Daniel, pursuing an IT degree and currently navigating the fascinating realm
 
 ### Learning
 [![Learning](https://skillicons.dev/icons?i=js,java)](https://skillicons.dev)
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadiantReversal&hide_title=true&theme=rose)
