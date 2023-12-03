@@ -7,6 +7,10 @@ I'm pursuing an IT degree and currently navigating the fascinating realm of Web 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass)](https://skillicons.dev)
 
 ### Learning
-[![Learning](https://skillicons.dev/icons?i=js,java)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+
+### On-hold
+[![Onhold](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadiantReversal&hide_title=true&theme=neon)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadiantReversal&hide_title=true&theme=buefy)
