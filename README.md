@@ -1,4 +1,4 @@
-## Hello! 🫰
+## Hello! 🤗
 
 ### About Me
 I'm pursuing an IT degree and currently navigating the fascinating realm of Web Development.
