@@ -4,7 +4,7 @@
 I'm pursuing an IT degree and currently navigating the fascinating realm of Web Development.
 
 ### Current Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ### Learning
 [![Learning](https://skillicons.dev/icons?i=java,spring,mysql,git)](https://skillicons.dev)
