@@ -10,7 +10,7 @@ I'm pursuing an IT degree and currently learning about Web Development.
 [![Learning](https://skillicons.dev/icons?i=js,nodejs,express,mysql,mongodb)](https://skillicons.dev)
 
 ### On-hold
-[![Onhold](https://skillicons.dev/icons?i=ts,react,redux,next,java,spring)](https://skillicons.dev)
+[![Onhold](https://skillicons.dev/icons?i=ts,react,java,spring)](https://skillicons.dev)
 
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadiantReversal&hide_title=true&theme=buefy)
